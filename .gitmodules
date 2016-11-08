@@ -1,0 +1,3 @@
+[submodule "Pozyx-Arduino-library"]
+	path = Pozyx-Arduino-library
+	url = https://github.com/pozyxLabs/Pozyx-Arduino-library

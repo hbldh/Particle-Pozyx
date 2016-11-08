@@ -1,0 +1,7 @@
+{
+    "name": "Pozyx",
+    "version": "0.0.2",
+    "author": "Henrik Blidh <henrik.blidh@nedomkull.com>",
+    "license": "MIT",
+    "description": "Pozyx positioning library (Wrapper around https://github.com/pozyxLabs/Pozyx-Arduino-library)"
+}
